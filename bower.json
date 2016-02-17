@@ -1,0 +1,25 @@
+{
+  "name": "tagcloud",
+  "authors": [
+    "konstantin <Rhfrfpz",
+    "hf1301>"
+  ],
+  "description": "cloud og tags",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "flexboxgrid": "^6.3.0",
+    "normalize-css": "^3.0.3"
+  }
+}
